@@ -76,6 +76,3 @@ Android Application and the Stock availability of each ration shop is available 
         <img src="Images/contact.png"><br><br>
         <li>Data stored in databse</li><br>
         <img src="Images/database.png"><br><br>
-
-    </ul>
-    </I>
