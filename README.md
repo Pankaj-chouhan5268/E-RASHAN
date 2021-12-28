@@ -1,7 +1,7 @@
 # E-RASHAN
 <I>
     <h3>Introduction</h3>
-    <h4>The Public Distributive system was established by the Ministry of Consumer Affairs to distribute basic Groceries
+    The Public Distributive system was established by the Ministry of Consumer Affairs to distribute basic Groceries
 to Poor.<br>
 The main reason for making this Android Application is to make the process digitalized and to remove the
 drawbacks of the present System working based on the Ration card. In order to improve and make efficient the
@@ -14,7 +14,6 @@ completed in the Ration Shop. Users will have Complaint forum to post their comp
 and Admin will check their Complaints and Ration Card Holders can check the prices of the Groceries in the
 Android Application and the Stock availability of each ration shop is available in the android application.
 
-</h4>
 <h3>Applications</h3>
     <ul>
         <li>This e-Ration Shop website is to give information related to card holders and to record all transactions.</li>
